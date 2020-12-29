@@ -1,6 +1,6 @@
 # Welcome to GIST DCASL Github!
 
-이 문서는, GIST DCASL 에서 지켜야 하는 사항들을 설명하고 있습니다.
+이 문서는, GIST DCASL의 github 에서 지켜야 하는 사항들을 설명하고 있습니다.
 
 지금은 사항들이 적지만, 나중에 규칙을 확립해 나아고자 합니다.
 
@@ -15,3 +15,5 @@
 
 
 손진희 드림.
+
+*English Version will be updated soon*.
